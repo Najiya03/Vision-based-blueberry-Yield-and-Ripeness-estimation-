@@ -33,6 +33,8 @@ The system uses a U-Net architecture with a ResNet50V2 encoder to accurately seg
 ## Dataset
 
 - Agrivision Benchmark dataset: https://springernature.figshare.com/articles/dataset/AgriVision_A_Benchmark_Dataset_for_Advancing_Real-World_Robotic_Vision_in_Densely_Fruited_Blueberry_Crop/29222462
+  
+---
 
 ## Methodology
 
